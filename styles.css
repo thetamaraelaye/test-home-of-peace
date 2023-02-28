@@ -587,8 +587,8 @@ margin-bottom: 30px;
 .sect-2 {
     flex-direction: column-reverse;
     align-items: center;
-    width: 100vw;
-    padding: 25px;
+    width: 101vw;
+    padding: 20px;
     overflow: hidden;
 }
 
