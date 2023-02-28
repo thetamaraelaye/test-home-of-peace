@@ -587,8 +587,8 @@ margin-bottom: 30px;
 .sect-2 {
     flex-direction: column-reverse;
     align-items: center;
-    width: 100%;
-    padding: 20px;
+    width: 100vw;
+    padding: 25px;
     overflow: hidden;
 }
 
@@ -803,7 +803,12 @@ footer p {
   padding-bottom:10% ;
 }
 
+.social-icons a {
+  width: 15px;
+}
+
 .fa {
+  padding: 5px;
   font-size: 15px;
 }
 
